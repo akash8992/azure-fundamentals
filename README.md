@@ -1,7 +1,7 @@
 # **Mastering Microsoft Azure: A Comprehensive Guide**
 
 ### **Author**: [AKASH SINGH]
-### **Edition**: 2024
+**Edition**: 2024
 
 ---
 
